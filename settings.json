@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "barza5.aternos.me:40676",
+    "port": 40676,
     "version": "",
     "try-creative": false
   },
@@ -15,7 +15,7 @@
     "enabled": true,
     "x": 0,
     "y": 100,
-    "z": 0
+    "z": 
   },
   "utils": {
     "auto-auth": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a bot",
+        "Sub to brahim_sprr on insta",
+        "67"
       ]
     },
     "chat-log": true,
